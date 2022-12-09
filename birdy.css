@@ -1,0 +1,18 @@
+	#id123{
+		text-align: center;
+		text-shadow: 3px 2px 4px black;
+		text-transform: capitalize;
+		background-color:#6F333F;
+		color:white;
+	}
+	.byrd{
+		text-align: justify;
+	}
+	td {
+		 padding:10px; margin:5px 
+	}
+	table {
+			border-color:#6F233F;
+			border-style: solid;
+			border-width: thin;
+	}
